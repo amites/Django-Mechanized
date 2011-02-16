@@ -1,0 +1,15 @@
+#project specific
+media/images_recaptcha
+
+#python specific
+*.pyc
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+local_*
+
+

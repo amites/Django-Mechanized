@@ -1,0 +1,11 @@
+Django based apps:
+    - browser:
+	Several shortcuts for working with the Mechanize Library
+	See: http://wwwsearch.sourceforge.net/mechanize/
+
+    - Proxies
+	Shortcuts for finding and using proxies. Use at your own risk.
+
+Source code is documented, please let me know if you run into any issues using either of theses apps. 
+
+They complement each other and should be kept together. If there is enough use I will go through and create a proper package for distribution.
